@@ -225,7 +225,7 @@ function Phones() {
           </Form.Item>
 
           <Button type="primary" htmlType="submit" block>
-            {form.id ? "Update Phone" : "Submit Phone"}
+            {form.id ? "Update Phone" : "Submit Phone Info"}
           </Button>
         </Form>
       </Drawer>
