@@ -1,0 +1,78 @@
+{
+  "students": [
+    {
+      "id": "67f9",
+      "name": "Aryan Pathak",
+      "className": {
+        "name": "10th",
+        "id": ""
+      },
+      "subjects": [
+        {
+          "id": 1763640264612,
+          "name": "Maths"
+        },
+        {
+          "id": 1763640273627,
+          "name": "English"
+        },
+        {
+          "id": 1763640277318,
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": "6937",
+      "name": "Mayank",
+      "className": {
+        "name": "10th",
+        "id": ""
+      },
+      "subjects": [
+        {
+          "id": 1763640291448,
+          "name": "Hindi"
+        },
+        {
+          "id": 1763640296112,
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "name": "Akhil",
+      "className": {
+        "name": "10th",
+        "id": ""
+      },
+      "subjects": [
+        {
+          "id": 1763642873549,
+          "name": "eng"
+        }
+      ],
+      "id": "dd5f"
+    }
+  ],
+  "phoneEntries": [
+    {
+      "id": "2766",
+      "studentName": "Mayank",
+      "phone": "Apple AirPods",
+      "issueDate": "2025-11-14"
+    },
+    {
+      "id": "e931",
+      "studentName": "Aryan Pathak",
+      "phone": "Apple iPad Mini 5th Gen",
+      "issueDate": "2025-11-19"
+    },
+    {
+      "id": "946e",
+      "studentName": "Akhil",
+      "phone": "Apple iPad Air",
+      "issueDate": "2025-11-29"
+    }
+  ]
+}
